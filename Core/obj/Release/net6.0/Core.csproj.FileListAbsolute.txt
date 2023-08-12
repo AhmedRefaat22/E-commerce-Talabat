@@ -1,0 +1,12 @@
+E:\C38\C39\API G03\Core\bin\Release\net6.0\Core.deps.json
+E:\C38\C39\API G03\Core\bin\Release\net6.0\Core.dll
+E:\C38\C39\API G03\Core\bin\Release\net6.0\Core.pdb
+E:\C38\C39\API G03\Core\obj\Release\net6.0\Core.csproj.AssemblyReference.cache
+E:\C38\C39\API G03\Core\obj\Release\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\C38\C39\API G03\Core\obj\Release\net6.0\Core.AssemblyInfoInputs.cache
+E:\C38\C39\API G03\Core\obj\Release\net6.0\Core.AssemblyInfo.cs
+E:\C38\C39\API G03\Core\obj\Release\net6.0\Core.csproj.CoreCompileInputs.cache
+E:\C38\C39\API G03\Core\obj\Release\net6.0\Core.dll
+E:\C38\C39\API G03\Core\obj\Release\net6.0\refint\Core.dll
+E:\C38\C39\API G03\Core\obj\Release\net6.0\Core.pdb
+E:\C38\C39\API G03\Core\obj\Release\net6.0\ref\Core.dll

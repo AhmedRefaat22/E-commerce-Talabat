@@ -1,0 +1,15 @@
+E:\C38\C39\API G03\Infrastructure\bin\Debug\net6.0\Infrastructure.deps.json
+E:\C38\C39\API G03\Infrastructure\bin\Debug\net6.0\Infrastructure.dll
+E:\C38\C39\API G03\Infrastructure\bin\Debug\net6.0\Infrastructure.pdb
+E:\C38\C39\API G03\Infrastructure\bin\Debug\net6.0\Core.dll
+E:\C38\C39\API G03\Infrastructure\bin\Debug\net6.0\Core.pdb
+E:\C38\C39\API G03\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.AssemblyReference.cache
+E:\C38\C39\API G03\Infrastructure\obj\Debug\net6.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\C38\C39\API G03\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfoInputs.cache
+E:\C38\C39\API G03\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfo.cs
+E:\C38\C39\API G03\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CoreCompileInputs.cache
+E:\C38\C39\API G03\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CopyComplete
+E:\C38\C39\API G03\Infrastructure\obj\Debug\net6.0\Infrastructure.dll
+E:\C38\C39\API G03\Infrastructure\obj\Debug\net6.0\refint\Infrastructure.dll
+E:\C38\C39\API G03\Infrastructure\obj\Debug\net6.0\Infrastructure.pdb
+E:\C38\C39\API G03\Infrastructure\obj\Debug\net6.0\ref\Infrastructure.dll
